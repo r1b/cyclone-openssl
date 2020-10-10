@@ -1,0 +1,6 @@
+.*.sw*
+*.c
+*.o
+*.meta
+*.so
+openssl

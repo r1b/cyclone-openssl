@@ -1,5 +1,5 @@
 (package
-  (name "")
+  (name openssl)
   (version 0.1)
   (license "BSD")
   (authors "")
@@ -11,5 +11,4 @@
   (dependencies ())
   (test-dependencies ())
   (foreign-dependencies ())
-  (library (name ____) (description ""))
-  (program (name ____) (description "")))
+  (library (name (cyclone openssl)) (description "OpenSSL library")))

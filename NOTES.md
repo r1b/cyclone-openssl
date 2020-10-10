@@ -8,6 +8,13 @@ dpkg-query -L libssl1.1
 <SNIP>
 ```
 
+```bash
+dpkg-query -L libssl-dev
+<SNIP>
+/usr/include/openssl/ssl.h
+<SNIP>
+```
+
 # What symbols are exported by libcrypto/libssl?
 
 ```bash
